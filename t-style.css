@@ -1,0 +1,24 @@
+body {
+font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+font-weight: 300;
+    padding: 0px;
+    margin: 0px;
+}
+
+p {font-size: 14px; line-height: 1.8; margin-bottom: 10px;border-left: 50px #AA1D15; margin-left: 50px; margin-right: 20px; max-width: 600px;}
+
+h3 {margin-top: 50px; font-weight: 300; font-size:20px; background-color:#AA1D15; color: white; display:table;padding: 4px 10px 4px 10px; margin-left: 0px;}
+
+a {color: #AA1D15; text-decoration: none;}
+
+h1 {margin-bottom: 0px; padding-bottom: 0px; display: none;}
+h2 {line-height: 36px; margin-left: 50px;}
+h2, h1 {font-weight: 250; font-size:20px;}
+
+.toptxt {width: 450px;margin-left: 50px;margin-top: 50px; max-width: 75%;}
+
+#main {width:600px;
+
+}
+
+img {max-width: 600px;}
